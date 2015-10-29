@@ -1,0 +1,12 @@
+{
+  "name": "jscs-preset-arenanet",
+  "version": "1.0.0",
+  "description": "JSCS Preset for ArenaNet code",
+  "main": "./arenanet.json",
+  "keywords": [
+    "jscs-preset",
+    "jscs"
+  ],
+  "author": "Pat Cavit <npm@patcavit.com>",
+  "license": "MIT"
+}
