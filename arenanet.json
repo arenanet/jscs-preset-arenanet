@@ -33,7 +33,7 @@
     "requireDotNotation" : true,
     "requireLineBreakAfterVariableAssignment" : true,
     "requireLineFeedAtFileEnd" : true,
-    "requireMatchingFunctionName" : true,
+    "requireMatchingFunctionName" : false,
     "requireMultipleVarDecl" : true,
     "requireOperatorBeforeLineBreak" : true,
     "requirePaddingNewLineAfterVariableDeclaration" : true,
