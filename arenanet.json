@@ -60,7 +60,7 @@
     "requireSpacesInsideArrayBrackets" : "all",
     "requireSpacesInsideObjectBrackets" : "all",
     "requireVarDeclFirst" : true,
-    "safeContextKeyword" : [ "self", "ctrl" ],
+    "safeContextKeyword" : [ "self", /* for mithril */ "ctrl" ],
     "validateCommentPosition" : { "position" : "above" },
     "validateIndentation" : 4,
     "validateParameterSeparator" : ", ",
