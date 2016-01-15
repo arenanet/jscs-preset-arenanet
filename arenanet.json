@@ -29,7 +29,7 @@
     "requireCamelCaseOrUpperCaseIdentifiers" : "ignoreProperties",
     "requireCapitalizedConstructors" : true,
     "requireCommaBeforeLineBreak" : true,
-    "requireCurlyBraces" : true,
+    "requireCurlyBraces" : { "keywords" : true, "allExcept" : [ "case" ] },
     "requireDotNotation" : true,
     "requireLineBreakAfterVariableAssignment" : true,
     "requireLineFeedAtFileEnd" : true,
