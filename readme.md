@@ -1,5 +1,7 @@
-jscs-preset-arenanet
-====================
+# ⚠️ THIS PACKAGE HAS BEEN DEPRECATED ⚠️ - use [eslint-config-arenanet](https://github.com/arenanet/eslint-config-arenanet) instead
+
+# jscs-preset-arenanet
+
 [![NPM Version](https://img.shields.io/npm/v/jscs-preset-arenanet.svg)](https://www.npmjs.com/package/jscs-preset-arenanet)
 [![NPM License](https://img.shields.io/npm/l/jscs-preset-arenanet.svg)](https://www.npmjs.com/package/jscs-preset-arenanet)
 [![NPM Downloads](https://img.shields.io/npm/dm/jscs-preset-arenanet.svg)](https://www.npmjs.com/package/jscs-preset-arenanet)
