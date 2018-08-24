@@ -1,4 +1,5 @@
-# ⚠️ THIS PACKAGE HAS BEEN DEPRECATED ⚠️ - use [eslint-config-arenanet](https://github.com/arenanet/eslint-config-arenanet) instead
+# ⚠️ THIS PACKAGE HAS BEEN DEPRECATED ⚠️
+👉 use [eslint-config-arenanet](https://github.com/arenanet/eslint-config-arenanet) instead 👈
 
 # jscs-preset-arenanet
 
